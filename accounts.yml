@@ -1,5 +1,5 @@
 accounts:
-  message: "Добро пожаловать в аккаунт-сервис"
+  message: "Добро пожаловать в аккаунт-сервис обновленний"
   buildVersion: "1.0.0"
   contactDetails:
     name: "EazyBank Accounts Support"
