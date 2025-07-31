@@ -1,0 +1,9 @@
+cards:
+  message: "Добро пожаловать в карточный сервис"
+  buildVersion: "1.0.0"
+  contactDetails:
+    name: "EazyBank Cards Support"
+    email: "support@eazybank.com"
+  onCallSupport:
+    - (333) 333-3333
+    - (444) 444-4444
